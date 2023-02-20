@@ -21,7 +21,6 @@ O site consiste em um sistema de pesquisas de usuários do GitHub, nele você po
 ## Backend
 - Typescript
 - Nodejs
-- React Router DOM
 - APIs
 
 # Autor
